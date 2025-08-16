@@ -1,3 +1,0 @@
-The PATH to the start-up movies overrides:
-
-/home/deck/.steam/steam/config/uioverrides/movies/
